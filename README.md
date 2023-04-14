@@ -1,12 +1,10 @@
 Group-16 JPR Micro-project
 
-Institute name: MET's Bhujbal Knowlegde City Institute of Technology Polytechnic, Adgaon, Nashik
+Project Title: Electricty Billing System
 
 Group Members:
 Atharv Jadhav
 Kartik Kale
 Sarthak Pawar
 
-Project Title: Electricty Billing System
 
-Course Professor: Prof. A. P. Bhuse
